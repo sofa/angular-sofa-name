@@ -1,6 +1,6 @@
 {
   "name": "angular-sofa-name",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sofa Web SDK Angular Name component.",
   "main": "dist/sofaName.js",
   "homepage": "http://www.sofa.io",
